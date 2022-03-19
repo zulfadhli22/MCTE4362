@@ -8,7 +8,7 @@ A Central Processing Unit (CPU) with program-loading capabilities. Also has Rand
 - Dedicated I/O Device - have a dedicated input device and in most cases, an output device (such as an LCD or LED display). Microcontroller will accept input from the device that it’s controlling and sends signals to other components within it to help control it.
 - Economical and Small - users seek out the smallest and most affordable one that can get the job done.
 - Ruggedized - can withstand high heats and rougher conditions than general purpose computers can handle.
-## 2.Industrial PC
+## 2. Industrial PC
 A robust computer designed to be used in an industrial environment, often involved in the manufacturing of goods.\
 **Characteristics:**
 - Fan less and ventless design.
